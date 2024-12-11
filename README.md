@@ -34,3 +34,6 @@ chmod +x nexus.sh
 ```
 **Ketik `CTRL+AD` Jika ingin keluar screen**
 ## Jika sudah maka tampilan akan seperti ini
+<p align="center">
+  <img height="300" height="auto" src="https://github.com/zamzasalim/nexus/blob/main/log.png">
+</p>
